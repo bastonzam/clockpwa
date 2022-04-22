@@ -1,0 +1,11 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Prompt:wght@200&display=swap'); */
+@font-face {
+  font-family: "DBHeaven";
+  src: local("DBHeaven"), url(~assets/Font/DBHeavent.ttf) format("truetype");
+}
+body,
+html,
+* {
+  font-family: "DBHeaven" !important;
+  font-size: 1.4rem;
+}
